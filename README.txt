@@ -1,0 +1,1 @@
+To run the project:	1.	Save ‘Prototype1.ipynb’ and the Files/ folder in the same directory.Do not change their names.	2.	Open the notebook in Jupyter and run all cells in order.No additional environment setup is required.
